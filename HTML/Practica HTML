@@ -1,0 +1,25 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+<h1>Navegadores web</h1>
+<hr>
+<elemento #identificador>
+    <p style="color: blue;">Un navegador web (en ingles, web browser) es un software, aplicacion o programa que permite el acceso a la Web, interpretando la informacion de distintos tipos de archivos y sitios web para que estos puedan ser vistos.</p>
+</elemento #identificador>
+<hr>
+<p style="color: green;">La funcionalidad de un navegador web es permitir la visualizacion de documentos de texto, posiblemente con recursos multimedia incrustados</p>
+<h2>Ejemplos de navegadores web</h2>
+<elemento.navegador>
+    <p class="navegador"<p style="color: red;">Safari es un navegador web de codigo cerrado desarrollado por Apple Inc. Esta disponible para macOS, iPadOS e iOS.</p>
+    <p class="navegador"<p style="color: red;">Mozilla Firefox es un navegador web libre y de codigo abierto desarrollado para Linux, Android, iOS, macOS y Microsoft Windows coordinado por la Corporacion Mozilla y la Fundacion Mozilla.</p>
+    <p class="navegador"<p style="color: red;">Google Chrome: Google Chrome es un navegador web de codigo cerrado desarrolado por Google, aunque derivado de proyectos de codigo abierto</p>
+</elemento.navegador>
+
+
+</body>
+
+</html>
